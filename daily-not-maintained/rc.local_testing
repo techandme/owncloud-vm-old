@@ -13,7 +13,7 @@
 
 SCRIPTS="/var/scripts"
 HTML="/var/www/html"
-GITHUB_REPO="https://raw.githubusercontent.com/techandme/owncloud-vm/master/beta"
+GITHUB_REPO="https://raw.githubusercontent.com/techandme/owncloud-vm-old/master/daily-not-maintained/"
 DEV="dev"
 LETS_ENC="https://raw.githubusercontent.com/techandme/owncloud-vm/master/lets-encrypt"
 
